@@ -1,0 +1,1294 @@
+[{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc401"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-17T17:10:00",
+  "rating": 5,
+  "comment": "Friendly staff",
+  "tags": [
+    "ambience",
+    "cleanliness",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc402"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-12T07:42:00",
+  "rating": 2,
+  "comment": "Seating uncomfortable",
+  "tags": [
+    "cleanliness",
+    "noise",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc403"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-02T15:05:00",
+  "rating": 2,
+  "comment": "Will visit again",
+  "tags": [
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc404"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-26T20:11:00",
+  "rating": 4,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc405"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-12T12:04:00",
+  "rating": 2,
+  "comment": "Great service",
+  "tags": [
+    "cleanliness",
+    "ambience",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc406"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-12T07:33:00",
+  "rating": 1,
+  "comment": "Loved the ambience",
+  "tags": [
+    "cleanliness",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc407"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-21T09:14:00",
+  "rating": 2,
+  "comment": "Too noisy",
+  "tags": [
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc408"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-17T11:33:00",
+  "rating": 1,
+  "comment": "Loved the ambience",
+  "tags": [
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc409"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-07T15:15:00",
+  "rating": 3,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "cleanliness",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc40a"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-26T04:01:00",
+  "rating": 5,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "service",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc40b"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-05T14:12:00",
+  "rating": 4,
+  "comment": "Loved the ambience",
+  "tags": [
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc40c"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-15T09:39:00",
+  "rating": 3,
+  "comment": "Will visit again",
+  "tags": [
+    "ambience",
+    "noise",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc40d"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-28T12:43:00",
+  "rating": 2,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc40e"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-16T18:33:00",
+  "rating": 1,
+  "comment": "Great service",
+  "tags": [
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc40f"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-11T03:16:00",
+  "rating": 2,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc410"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-05T18:22:00",
+  "rating": 4,
+  "comment": "Will visit again",
+  "tags": [
+    "service",
+    "noise",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc411"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-13T23:36:00",
+  "rating": 2,
+  "comment": "Too noisy",
+  "tags": [
+    "ambience",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc412"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-03T16:25:00",
+  "rating": 2,
+  "comment": "Too noisy",
+  "tags": [
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc413"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-08T01:04:00",
+  "rating": 1,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "temperature",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc414"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-30T03:37:00",
+  "rating": 1,
+  "comment": "Loved the ambience",
+  "tags": [
+    "noise",
+    "service",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc415"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-16T12:18:00",
+  "rating": 5,
+  "comment": "Loved the ambience",
+  "tags": [
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc416"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-29T06:29:00",
+  "rating": 4,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "ambience",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc417"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-20T22:50:00",
+  "rating": 5,
+  "comment": "Great service",
+  "tags": [
+    "temperature",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc418"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-21T04:59:00",
+  "rating": 4,
+  "comment": "Friendly staff",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc419"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-29T10:34:00",
+  "rating": 4,
+  "comment": "Friendly staff",
+  "tags": [
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc41a"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-15T20:09:00",
+  "rating": 1,
+  "comment": "Loved the ambience",
+  "tags": [
+    "ambience",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc41b"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-10T00:25:00",
+  "rating": 5,
+  "comment": "Will visit again",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc41c"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-01T08:37:00",
+  "rating": 4,
+  "comment": "Will visit again",
+  "tags": [
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc41d"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-03T23:11:00",
+  "rating": 2,
+  "comment": "Will visit again",
+  "tags": [
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc41e"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-05T22:17:00",
+  "rating": 2,
+  "comment": "Seating uncomfortable",
+  "tags": [
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc41f"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-23T05:18:00",
+  "rating": 5,
+  "comment": "Great service",
+  "tags": [
+    "noise",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc420"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-05T03:32:00",
+  "rating": 1,
+  "comment": "Loved the ambience",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc421"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-15T06:46:00",
+  "rating": 4,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "service",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc422"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-21T22:59:00",
+  "rating": 1,
+  "comment": "Great service",
+  "tags": [
+    "noise",
+    "ambience",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc423"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-01T00:58:00",
+  "rating": 5,
+  "comment": "Friendly staff",
+  "tags": [
+    "noise",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc424"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-28T18:30:00",
+  "rating": 1,
+  "comment": "Seating uncomfortable",
+  "tags": [
+    "service",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc425"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-11T19:22:00",
+  "rating": 1,
+  "comment": "Friendly staff",
+  "tags": [
+    "temperature",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc426"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-03T16:01:00",
+  "rating": 1,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "ambience",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc427"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-05T17:38:00",
+  "rating": 1,
+  "comment": "Great service",
+  "tags": [
+    "temperature",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc428"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-13T12:18:00",
+  "rating": 1,
+  "comment": "Friendly staff",
+  "tags": [
+    "temperature",
+    "service",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc429"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-09T18:27:00",
+  "rating": 2,
+  "comment": "Great service",
+  "tags": [
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc42a"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-13T17:31:00",
+  "rating": 1,
+  "comment": "Will visit again",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc42b"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-10T09:55:00",
+  "rating": 1,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "service",
+    "cleanliness",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc42c"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-23T19:44:00",
+  "rating": 5,
+  "comment": "Loved the ambience",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc42d"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-18T05:13:00",
+  "rating": 5,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc42e"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-14T02:08:00",
+  "rating": 3,
+  "comment": "Great service",
+  "tags": [
+    "service",
+    "noise",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc42f"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-22T20:57:00",
+  "rating": 5,
+  "comment": "Great service",
+  "tags": [
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc430"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-20T22:41:00",
+  "rating": 1,
+  "comment": "Will visit again",
+  "tags": [
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc431"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-13T06:39:00",
+  "rating": 1,
+  "comment": "Loved the ambience",
+  "tags": [
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc432"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-27T06:06:00",
+  "rating": 1,
+  "comment": "Friendly staff",
+  "tags": [
+    "service",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc433"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-01T12:31:00",
+  "rating": 5,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc434"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-11T16:31:00",
+  "rating": 3,
+  "comment": "Will visit again",
+  "tags": [
+    "cleanliness",
+    "temperature",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc435"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-17T04:34:00",
+  "rating": 3,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "ambience",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc436"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-22T04:05:00",
+  "rating": 3,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "noise",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc437"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-23T05:22:00",
+  "rating": 1,
+  "comment": "Great service",
+  "tags": [
+    "cleanliness",
+    "temperature",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc438"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-12T23:54:00",
+  "rating": 5,
+  "comment": "Too noisy",
+  "tags": [
+    "noise",
+    "service",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc439"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-19T12:20:00",
+  "rating": 4,
+  "comment": "Will visit again",
+  "tags": [
+    "service",
+    "ambience",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc43a"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-04T09:21:00",
+  "rating": 2,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc43b"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-20T11:10:00",
+  "rating": 3,
+  "comment": "Too noisy",
+  "tags": [
+    "temperature",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc43c"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-18T13:32:00",
+  "rating": 5,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "cleanliness",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc43d"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-13T03:14:00",
+  "rating": 4,
+  "comment": "Friendly staff",
+  "tags": [
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc43e"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-17T06:09:00",
+  "rating": 5,
+  "comment": "Loved the ambience",
+  "tags": [
+    "noise",
+    "cleanliness",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc43f"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-03T12:56:00",
+  "rating": 4,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "cleanliness",
+    "service",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc440"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-29T11:53:00",
+  "rating": 2,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "temperature",
+    "service",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc441"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-26T03:09:00",
+  "rating": 1,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "cleanliness",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc442"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-24T12:52:00",
+  "rating": 2,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc443"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-24T15:45:00",
+  "rating": 3,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "temperature",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc444"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-15T15:23:00",
+  "rating": 5,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "noise",
+    "ambience",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc445"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-26T18:41:00",
+  "rating": 2,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "ambience",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc446"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-21T15:49:00",
+  "rating": 1,
+  "comment": "Too noisy",
+  "tags": [
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc447"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-28T00:39:00",
+  "rating": 2,
+  "comment": "Great service",
+  "tags": [
+    "ambience",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc448"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-07T20:11:00",
+  "rating": 1,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "cleanliness",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc449"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-27T01:06:00",
+  "rating": 5,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "temperature",
+    "noise",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc44a"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-24T18:38:00",
+  "rating": 1,
+  "comment": "Seating uncomfortable",
+  "tags": [
+    "service",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc44b"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-19T01:19:00",
+  "rating": 5,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "temperature",
+    "cleanliness",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc44c"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-22T01:57:00",
+  "rating": 1,
+  "comment": "Loved the ambience",
+  "tags": [
+    "noise",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc44d"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-07T20:50:00",
+  "rating": 5,
+  "comment": "Loved the ambience",
+  "tags": [
+    "service",
+    "ambience",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc44e"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-09T06:02:00",
+  "rating": 1,
+  "comment": "Seating uncomfortable",
+  "tags": [
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc44f"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-15T23:02:00",
+  "rating": 4,
+  "comment": "Too noisy",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc450"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-23T02:23:00",
+  "rating": 2,
+  "comment": "Friendly staff",
+  "tags": [
+    "service",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc451"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-08T00:53:00",
+  "rating": 4,
+  "comment": "Friendly staff",
+  "tags": [
+    "temperature",
+    "noise",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc452"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-19T13:53:00",
+  "rating": 2,
+  "comment": "Loved the ambience",
+  "tags": [
+    "service",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc453"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-07T08:33:00",
+  "rating": 2,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc454"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-05T00:16:00",
+  "rating": 5,
+  "comment": "Friendly staff",
+  "tags": [
+    "temperature",
+    "cleanliness",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc455"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-06T15:22:00",
+  "rating": 3,
+  "comment": "Seating uncomfortable",
+  "tags": [
+    "ambience",
+    "temperature",
+    "noise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc456"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-12T10:37:00",
+  "rating": 1,
+  "comment": "Coffee was excellent",
+  "tags": [
+    "temperature",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc457"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-29T22:24:00",
+  "rating": 1,
+  "comment": "Great service",
+  "tags": [
+    "cleanliness",
+    "noise",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc458"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-27T09:57:00",
+  "rating": 2,
+  "comment": "Loved the ambience",
+  "tags": [
+    "cleanliness",
+    "temperature",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc459"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-14T18:29:00",
+  "rating": 3,
+  "comment": "Will visit again",
+  "tags": [
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc45a"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-21T02:25:00",
+  "rating": 5,
+  "comment": "Loved the ambience",
+  "tags": [
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc45b"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-11T09:24:00",
+  "rating": 5,
+  "comment": "Loved the ambience",
+  "tags": [
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc45c"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-05T21:11:00",
+  "rating": 3,
+  "comment": "Friendly staff",
+  "tags": [
+    "cleanliness",
+    "ambience",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc45d"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-08T03:16:00",
+  "rating": 4,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "temperature",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc45e"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-29T03:12:00",
+  "rating": 1,
+  "comment": "Seating uncomfortable",
+  "tags": [
+    "noise",
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc45f"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-11T01:23:00",
+  "rating": 1,
+  "comment": "Too noisy",
+  "tags": [
+    "service",
+    "cleanliness",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc460"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-29T16:39:00",
+  "rating": 3,
+  "comment": "Loved the ambience",
+  "tags": [
+    "service",
+    "ambience"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc461"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-29T20:59:00",
+  "rating": 3,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "noise",
+    "service",
+    "temperature"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc462"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-17T17:27:00",
+  "rating": 3,
+  "comment": "Loved the ambience",
+  "tags": [
+    "cleanliness"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc463"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-13T20:02:00",
+  "rating": 5,
+  "comment": "Air felt stuffy",
+  "tags": [
+    "temperature",
+    "service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69ad8dceb8a8fd6c6b1bc464"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-20T10:03:00",
+  "rating": 4,
+  "comment": "Will visit again",
+  "tags": [
+    "noise",
+    "cleanliness",
+    "ambience"
+  ]
+}]

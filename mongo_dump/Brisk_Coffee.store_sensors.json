@@ -1,0 +1,2200 @@
+[{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc399"
+  },
+  "storeID": 1,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc39a"
+  },
+  "storeID": 2,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc39b"
+  },
+  "storeID": 3,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc39c"
+  },
+  "storeID": 4,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc39d"
+  },
+  "storeID": 5,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc39e"
+  },
+  "storeID": 6,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc39f"
+  },
+  "storeID": 7,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a0"
+  },
+  "storeID": 8,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a1"
+  },
+  "storeID": 9,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a2"
+  },
+  "storeID": 10,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a3"
+  },
+  "storeID": 2,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a4"
+  },
+  "storeID": 4,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a5"
+  },
+  "storeID": 5,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a6"
+  },
+  "storeID": 1,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a7"
+  },
+  "storeID": 9,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a8"
+  },
+  "storeID": 7,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3a9"
+  },
+  "storeID": 6,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3aa"
+  },
+  "storeID": 6,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ab"
+  },
+  "storeID": 6,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ac"
+  },
+  "storeID": 9,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ad"
+  },
+  "storeID": 8,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ae"
+  },
+  "storeID": 3,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3af"
+  },
+  "storeID": 4,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b0"
+  },
+  "storeID": 5,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b1"
+  },
+  "storeID": 2,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b2"
+  },
+  "storeID": 5,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b3"
+  },
+  "storeID": 2,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b4"
+  },
+  "storeID": 3,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b5"
+  },
+  "storeID": 5,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b6"
+  },
+  "storeID": 3,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b7"
+  },
+  "storeID": 1,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b8"
+  },
+  "storeID": 5,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3b9"
+  },
+  "storeID": 9,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ba"
+  },
+  "storeID": 3,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3bb"
+  },
+  "storeID": 5,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3bc"
+  },
+  "storeID": 3,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3bd"
+  },
+  "storeID": 10,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3be"
+  },
+  "storeID": 4,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3bf"
+  },
+  "storeID": 3,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c0"
+  },
+  "storeID": 5,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c1"
+  },
+  "storeID": 6,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c2"
+  },
+  "storeID": 5,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c3"
+  },
+  "storeID": 1,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c4"
+  },
+  "storeID": 3,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c5"
+  },
+  "storeID": 9,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c6"
+  },
+  "storeID": 7,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c7"
+  },
+  "storeID": 1,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c8"
+  },
+  "storeID": 10,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3c9"
+  },
+  "storeID": 4,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ca"
+  },
+  "storeID": 6,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3cb"
+  },
+  "storeID": 8,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3cc"
+  },
+  "storeID": 8,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3cd"
+  },
+  "storeID": 3,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ce"
+  },
+  "storeID": 4,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3cf"
+  },
+  "storeID": 8,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d0"
+  },
+  "storeID": 1,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d1"
+  },
+  "storeID": 2,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d2"
+  },
+  "storeID": 1,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d3"
+  },
+  "storeID": 1,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d4"
+  },
+  "storeID": 8,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d5"
+  },
+  "storeID": 10,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d6"
+  },
+  "storeID": 7,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d7"
+  },
+  "storeID": 8,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d8"
+  },
+  "storeID": 10,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3d9"
+  },
+  "storeID": 8,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3da"
+  },
+  "storeID": 8,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3db"
+  },
+  "storeID": 10,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3dc"
+  },
+  "storeID": 8,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3dd"
+  },
+  "storeID": 4,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3de"
+  },
+  "storeID": 1,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3df"
+  },
+  "storeID": 6,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e0"
+  },
+  "storeID": 4,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e1"
+  },
+  "storeID": 3,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e2"
+  },
+  "storeID": 5,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e3"
+  },
+  "storeID": 10,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e4"
+  },
+  "storeID": 3,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e5"
+  },
+  "storeID": 5,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e6"
+  },
+  "storeID": 4,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e7"
+  },
+  "storeID": 1,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e8"
+  },
+  "storeID": 10,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3e9"
+  },
+  "storeID": 8,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ea"
+  },
+  "storeID": 6,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3eb"
+  },
+  "storeID": 1,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ec"
+  },
+  "storeID": 8,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ed"
+  },
+  "storeID": 6,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ee"
+  },
+  "storeID": 3,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3ef"
+  },
+  "storeID": 4,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f0"
+  },
+  "storeID": 6,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f1"
+  },
+  "storeID": 2,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f2"
+  },
+  "storeID": 4,
+  "locationType": "Airport",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f3"
+  },
+  "storeID": 6,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": false,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f4"
+  },
+  "storeID": 1,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f5"
+  },
+  "storeID": 7,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f6"
+  },
+  "storeID": 7,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f7"
+  },
+  "storeID": 10,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 3,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f8"
+  },
+  "storeID": 3,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3f9"
+  },
+  "storeID": 7,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 2,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3fa"
+  },
+  "storeID": 9,
+  "locationType": "High Street",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3fb"
+  },
+  "storeID": 5,
+  "locationType": "Mall",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": true,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 1
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ad8d6eb8a8fd6c6b1bc3fc"
+  },
+  "storeID": 5,
+  "locationType": "Business District",
+  "sensors": {
+    "temperature": true,
+    "humidity": true,
+    "co2": false,
+    "noise": true,
+    "foot_traffic": true,
+    "equipment": {
+      "espresso_machines": 1,
+      "grinders": 2
+    }
+  },
+  "openHours": {
+    "weekday": "7:00-20:00",
+    "weekend": "8:00-19:00"
+  }
+}]

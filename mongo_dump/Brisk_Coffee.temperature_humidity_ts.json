@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc468"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-26T18:40:00",
+  "temperature": 22.88,
+  "humidity": 45,
+  "co2_ppm": 416,
+  "noise_db": 71
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc469"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-20T22:22:00",
+  "temperature": 20.93,
+  "humidity": 60,
+  "co2_ppm": 657,
+  "noise_db": 63
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc46a"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-21T00:12:00",
+  "temperature": 23.61,
+  "humidity": 68,
+  "co2_ppm": 940,
+  "noise_db": 74
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc46b"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-04T06:07:00",
+  "temperature": 21.65,
+  "humidity": 39,
+  "co2_ppm": 1136,
+  "noise_db": 52
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc46c"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-23T04:51:00",
+  "temperature": 21.25,
+  "humidity": 33,
+  "co2_ppm": 524,
+  "noise_db": 43
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc46d"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-13T14:23:00",
+  "temperature": 21.47,
+  "humidity": 54,
+  "co2_ppm": 809,
+  "noise_db": 44
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc46e"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-07T02:05:00",
+  "temperature": 25.51,
+  "humidity": 32,
+  "co2_ppm": 700,
+  "noise_db": 51
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc46f"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-28T06:53:00",
+  "temperature": 21.1,
+  "humidity": 38,
+  "co2_ppm": 1168,
+  "noise_db": 57
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc470"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-22T20:54:00",
+  "temperature": 20.5,
+  "humidity": 67,
+  "co2_ppm": 588,
+  "noise_db": 68
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc471"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-22T12:46:00",
+  "temperature": 19.52,
+  "humidity": 48,
+  "co2_ppm": 751,
+  "noise_db": 51
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc472"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-01T07:25:00",
+  "temperature": 25.79,
+  "humidity": 41,
+  "co2_ppm": 1183,
+  "noise_db": 46
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc473"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-22T17:21:00",
+  "temperature": 24.52,
+  "humidity": 43,
+  "co2_ppm": 972,
+  "noise_db": 51
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc474"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-15T21:58:00",
+  "temperature": 20.08,
+  "humidity": 44,
+  "co2_ppm": 975,
+  "noise_db": 65
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc475"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-10T06:42:00",
+  "temperature": 21.22,
+  "humidity": 67,
+  "co2_ppm": 648,
+  "noise_db": 48
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc476"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-09T03:25:00",
+  "temperature": 19.12,
+  "humidity": 57,
+  "co2_ppm": 743,
+  "noise_db": 57
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc477"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-13T12:12:00",
+  "temperature": 18.46,
+  "humidity": 55,
+  "co2_ppm": 529,
+  "noise_db": 45
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc478"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-08T15:22:00",
+  "temperature": 29.29,
+  "humidity": 33,
+  "co2_ppm": 1065,
+  "noise_db": 73
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc479"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-10T17:44:00",
+  "temperature": 28.94,
+  "humidity": 35,
+  "co2_ppm": 693,
+  "noise_db": 49
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc47a"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-10T22:50:00",
+  "temperature": 21.91,
+  "humidity": 70,
+  "co2_ppm": 1121,
+  "noise_db": 57
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc47b"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-03T01:27:00",
+  "temperature": 27.36,
+  "humidity": 64,
+  "co2_ppm": 1055,
+  "noise_db": 57
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc47c"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-16T11:21:00",
+  "temperature": 24.7,
+  "humidity": 31,
+  "co2_ppm": 603,
+  "noise_db": 50
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc47d"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-05T02:44:00",
+  "temperature": 27.51,
+  "humidity": 53,
+  "co2_ppm": 868,
+  "noise_db": 55
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc47e"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-03T06:17:00",
+  "temperature": 20.42,
+  "humidity": 36,
+  "co2_ppm": 468,
+  "noise_db": 80
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc47f"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-13T00:34:00",
+  "temperature": 19.78,
+  "humidity": 68,
+  "co2_ppm": 623,
+  "noise_db": 56
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc480"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-04T06:12:00",
+  "temperature": 24.71,
+  "humidity": 32,
+  "co2_ppm": 504,
+  "noise_db": 63
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc481"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-04T04:47:00",
+  "temperature": 22.87,
+  "humidity": 62,
+  "co2_ppm": 1028,
+  "noise_db": 52
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc482"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-16T00:08:00",
+  "temperature": 25.39,
+  "humidity": 64,
+  "co2_ppm": 879,
+  "noise_db": 74
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc483"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-17T08:53:00",
+  "temperature": 20.87,
+  "humidity": 59,
+  "co2_ppm": 660,
+  "noise_db": 66
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc484"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-21T18:22:00",
+  "temperature": 21.07,
+  "humidity": 56,
+  "co2_ppm": 916,
+  "noise_db": 73
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc485"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-25T21:32:00",
+  "temperature": 24.3,
+  "humidity": 40,
+  "co2_ppm": 989,
+  "noise_db": 40
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc486"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-30T03:59:00",
+  "temperature": 22.74,
+  "humidity": 56,
+  "co2_ppm": 867,
+  "noise_db": 58
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc487"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-24T19:40:00",
+  "temperature": 18.67,
+  "humidity": 34,
+  "co2_ppm": 691,
+  "noise_db": 69
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc488"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-11T23:36:00",
+  "temperature": 21.64,
+  "humidity": 63,
+  "co2_ppm": 1129,
+  "noise_db": 68
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc489"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-15T07:52:00",
+  "temperature": 29.08,
+  "humidity": 56,
+  "co2_ppm": 780,
+  "noise_db": 73
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc48a"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-04T21:03:00",
+  "temperature": 25.98,
+  "humidity": 64,
+  "co2_ppm": 1138,
+  "noise_db": 43
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc48b"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-10T04:15:00",
+  "temperature": 23.14,
+  "humidity": 66,
+  "co2_ppm": 876,
+  "noise_db": 68
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc48c"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-19T08:19:00",
+  "temperature": 27.4,
+  "humidity": 51,
+  "co2_ppm": 586,
+  "noise_db": 58
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc48d"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-24T02:52:00",
+  "temperature": 29.57,
+  "humidity": 49,
+  "co2_ppm": 971,
+  "noise_db": 54
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc48e"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-17T16:44:00",
+  "temperature": 28,
+  "humidity": 47,
+  "co2_ppm": 993,
+  "noise_db": 76
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc48f"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-16T11:38:00",
+  "temperature": 22.65,
+  "humidity": 58,
+  "co2_ppm": 416,
+  "noise_db": 62
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc490"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-21T18:08:00",
+  "temperature": 19.5,
+  "humidity": 53,
+  "co2_ppm": 742,
+  "noise_db": 48
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc491"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-27T22:26:00",
+  "temperature": 20.08,
+  "humidity": 63,
+  "co2_ppm": 484,
+  "noise_db": 55
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc492"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-28T09:16:00",
+  "temperature": 24.83,
+  "humidity": 54,
+  "co2_ppm": 861,
+  "noise_db": 71
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc493"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-30T15:14:00",
+  "temperature": 29.01,
+  "humidity": 58,
+  "co2_ppm": 780,
+  "noise_db": 58
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc494"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-11T10:25:00",
+  "temperature": 29.79,
+  "humidity": 59,
+  "co2_ppm": 1108,
+  "noise_db": 58
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc495"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-03T10:29:00",
+  "temperature": 18.52,
+  "humidity": 37,
+  "co2_ppm": 1090,
+  "noise_db": 63
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc496"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-03T06:55:00",
+  "temperature": 27.77,
+  "humidity": 53,
+  "co2_ppm": 554,
+  "noise_db": 57
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc497"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-07T23:50:00",
+  "temperature": 28.33,
+  "humidity": 47,
+  "co2_ppm": 901,
+  "noise_db": 54
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc498"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-18T14:13:00",
+  "temperature": 20.52,
+  "humidity": 59,
+  "co2_ppm": 736,
+  "noise_db": 57
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc499"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-02T14:00:00",
+  "temperature": 29,
+  "humidity": 57,
+  "co2_ppm": 478,
+  "noise_db": 41
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc49a"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-07T19:32:00",
+  "temperature": 29.31,
+  "humidity": 51,
+  "co2_ppm": 1199,
+  "noise_db": 80
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc49b"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-10T12:21:00",
+  "temperature": 29,
+  "humidity": 58,
+  "co2_ppm": 1150,
+  "noise_db": 55
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc49c"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-16T06:07:00",
+  "temperature": 19.46,
+  "humidity": 48,
+  "co2_ppm": 409,
+  "noise_db": 51
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc49d"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-05T18:47:00",
+  "temperature": 22.54,
+  "humidity": 62,
+  "co2_ppm": 944,
+  "noise_db": 66
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc49e"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-02T23:23:00",
+  "temperature": 23.79,
+  "humidity": 46,
+  "co2_ppm": 677,
+  "noise_db": 50
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc49f"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-10T05:45:00",
+  "temperature": 26.59,
+  "humidity": 49,
+  "co2_ppm": 423,
+  "noise_db": 77
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a0"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-08T22:42:00",
+  "temperature": 26.67,
+  "humidity": 34,
+  "co2_ppm": 673,
+  "noise_db": 67
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a1"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-09T13:22:00",
+  "temperature": 19.95,
+  "humidity": 65,
+  "co2_ppm": 991,
+  "noise_db": 41
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a2"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-30T00:29:00",
+  "temperature": 20.93,
+  "humidity": 46,
+  "co2_ppm": 626,
+  "noise_db": 44
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a3"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-08T20:11:00",
+  "temperature": 28.11,
+  "humidity": 55,
+  "co2_ppm": 532,
+  "noise_db": 64
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a4"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-29T05:26:00",
+  "temperature": 19.37,
+  "humidity": 64,
+  "co2_ppm": 1135,
+  "noise_db": 60
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a5"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-02T17:40:00",
+  "temperature": 28.42,
+  "humidity": 69,
+  "co2_ppm": 640,
+  "noise_db": 69
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a6"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-26T18:21:00",
+  "temperature": 29,
+  "humidity": 58,
+  "co2_ppm": 602,
+  "noise_db": 67
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a7"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-24T03:55:00",
+  "temperature": 28.49,
+  "humidity": 55,
+  "co2_ppm": 842,
+  "noise_db": 60
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a8"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-29T14:24:00",
+  "temperature": 23.21,
+  "humidity": 59,
+  "co2_ppm": 448,
+  "noise_db": 40
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4a9"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-18T12:03:00",
+  "temperature": 29.62,
+  "humidity": 32,
+  "co2_ppm": 997,
+  "noise_db": 68
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4aa"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-01T14:59:00",
+  "temperature": 19.25,
+  "humidity": 37,
+  "co2_ppm": 801,
+  "noise_db": 46
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4ab"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-30T07:49:00",
+  "temperature": 24.28,
+  "humidity": 59,
+  "co2_ppm": 838,
+  "noise_db": 44
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4ac"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-30T18:17:00",
+  "temperature": 23.36,
+  "humidity": 42,
+  "co2_ppm": 1188,
+  "noise_db": 50
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4ad"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-15T08:20:00",
+  "temperature": 24.88,
+  "humidity": 62,
+  "co2_ppm": 1108,
+  "noise_db": 64
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4ae"
+  },
+  "storeID": 9,
+  "timestamp": "2025-01-23T20:18:00",
+  "temperature": 19,
+  "humidity": 47,
+  "co2_ppm": 696,
+  "noise_db": 47
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4af"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-23T23:47:00",
+  "temperature": 27.12,
+  "humidity": 49,
+  "co2_ppm": 687,
+  "noise_db": 67
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b0"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-13T07:00:00",
+  "temperature": 21.93,
+  "humidity": 36,
+  "co2_ppm": 471,
+  "noise_db": 51
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b1"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-22T04:03:00",
+  "temperature": 29.59,
+  "humidity": 41,
+  "co2_ppm": 840,
+  "noise_db": 47
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b2"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-27T21:09:00",
+  "temperature": 21.92,
+  "humidity": 37,
+  "co2_ppm": 933,
+  "noise_db": 74
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b3"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-06T02:57:00",
+  "temperature": 26.27,
+  "humidity": 30,
+  "co2_ppm": 1113,
+  "noise_db": 51
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b4"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-07T10:33:00",
+  "temperature": 28.01,
+  "humidity": 40,
+  "co2_ppm": 554,
+  "noise_db": 74
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b5"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-12T21:04:00",
+  "temperature": 28.05,
+  "humidity": 57,
+  "co2_ppm": 838,
+  "noise_db": 52
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b6"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-22T17:29:00",
+  "temperature": 20.53,
+  "humidity": 56,
+  "co2_ppm": 811,
+  "noise_db": 80
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b7"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-25T01:26:00",
+  "temperature": 22.25,
+  "humidity": 61,
+  "co2_ppm": 1139,
+  "noise_db": 66
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b8"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-05T09:56:00",
+  "temperature": 19.4,
+  "humidity": 45,
+  "co2_ppm": 1095,
+  "noise_db": 43
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4b9"
+  },
+  "storeID": 2,
+  "timestamp": "2025-01-07T10:38:00",
+  "temperature": 21.94,
+  "humidity": 31,
+  "co2_ppm": 911,
+  "noise_db": 70
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4ba"
+  },
+  "storeID": 10,
+  "timestamp": "2025-01-11T02:23:00",
+  "temperature": 19.78,
+  "humidity": 38,
+  "co2_ppm": 599,
+  "noise_db": 72
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4bb"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-09T10:12:00",
+  "temperature": 21.25,
+  "humidity": 35,
+  "co2_ppm": 970,
+  "noise_db": 54
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4bc"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-19T18:19:00",
+  "temperature": 26.65,
+  "humidity": 65,
+  "co2_ppm": 424,
+  "noise_db": 72
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4bd"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-20T18:34:00",
+  "temperature": 19.33,
+  "humidity": 68,
+  "co2_ppm": 607,
+  "noise_db": 46
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4be"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-25T08:51:00",
+  "temperature": 18.69,
+  "humidity": 59,
+  "co2_ppm": 984,
+  "noise_db": 43
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4bf"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-14T21:29:00",
+  "temperature": 28.45,
+  "humidity": 44,
+  "co2_ppm": 809,
+  "noise_db": 56
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c0"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-26T09:52:00",
+  "temperature": 21.92,
+  "humidity": 54,
+  "co2_ppm": 694,
+  "noise_db": 49
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c1"
+  },
+  "storeID": 7,
+  "timestamp": "2025-01-19T01:23:00",
+  "temperature": 26.03,
+  "humidity": 61,
+  "co2_ppm": 463,
+  "noise_db": 59
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c2"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-07T02:14:00",
+  "temperature": 24.16,
+  "humidity": 56,
+  "co2_ppm": 635,
+  "noise_db": 44
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c3"
+  },
+  "storeID": 1,
+  "timestamp": "2025-01-14T13:01:00",
+  "temperature": 26.47,
+  "humidity": 34,
+  "co2_ppm": 773,
+  "noise_db": 62
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c4"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-01T19:31:00",
+  "temperature": 24.18,
+  "humidity": 68,
+  "co2_ppm": 977,
+  "noise_db": 40
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c5"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-29T08:43:00",
+  "temperature": 28.15,
+  "humidity": 52,
+  "co2_ppm": 607,
+  "noise_db": 58
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c6"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-27T15:39:00",
+  "temperature": 21.48,
+  "humidity": 58,
+  "co2_ppm": 451,
+  "noise_db": 64
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c7"
+  },
+  "storeID": 6,
+  "timestamp": "2025-01-23T14:45:00",
+  "temperature": 19.47,
+  "humidity": 44,
+  "co2_ppm": 827,
+  "noise_db": 42
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c8"
+  },
+  "storeID": 4,
+  "timestamp": "2025-01-29T05:07:00",
+  "temperature": 23.58,
+  "humidity": 58,
+  "co2_ppm": 696,
+  "noise_db": 73
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4c9"
+  },
+  "storeID": 5,
+  "timestamp": "2025-01-12T13:51:00",
+  "temperature": 24.05,
+  "humidity": 54,
+  "co2_ppm": 514,
+  "noise_db": 58
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4ca"
+  },
+  "storeID": 8,
+  "timestamp": "2025-01-03T03:08:00",
+  "temperature": 20.26,
+  "humidity": 36,
+  "co2_ppm": 1111,
+  "noise_db": 57
+},
+{
+  "_id": {
+    "$oid": "69ad8e0cb8a8fd6c6b1bc4cb"
+  },
+  "storeID": 3,
+  "timestamp": "2025-01-21T10:02:00",
+  "temperature": 19.47,
+  "humidity": 40,
+  "co2_ppm": 780,
+  "noise_db": 47
+}]
